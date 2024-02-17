@@ -1,1 +1,1 @@
-Created a logic for how the slot machine works.
+Created a logic for how the slot machine works. First, you will be given some amount of money at the beginning of the game. Then, you will be provided various instructions and be upto virtual millionaire inside the game.
